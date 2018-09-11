@@ -2,6 +2,9 @@ BallDropGame
 arduino_secrets.h
 wifi_secrets.h
 .DS_Store
+*.mov
+*.gif
+*.jpg
 
 # Logs
 logs
