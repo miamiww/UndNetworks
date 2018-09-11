@@ -118,6 +118,14 @@ void loop() {
   delay(30);
   socket.print(varToSend2);
   delay(100);
+
+  if (socket.connected()) {   // if you connected,
+      digitalWrite(LEDpin, HIGH);
+      
+  } else {
+
+      digitalWrite(LEDpin, LOW);
+  }
   
 }
 
