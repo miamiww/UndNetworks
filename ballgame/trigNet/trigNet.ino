@@ -3,7 +3,7 @@
 
 WiFiClient socket;      // variable for the socket connection
 const int port = 8080;
-char host[] = "192.168.0.104";
+char host[] = "128.122.6.228";
 
 #define trigPin 2 //D4
 #define echoPin 0 //D3
@@ -42,6 +42,8 @@ void setup()
   }
 
   login();
+  socket.print('n');  // say hello to the server
+  socket.print("alden");
     
 }
 
@@ -136,8 +138,7 @@ boolean login() {
   while (!socket.connected()) { // While not connected, try again
     delay(1000);
     if (socket.connected()) {   // if you connected,
-      socket.print('n');  // say hello to the server
-      socket.print("alden");
+ 
       Serial.println("socket connection successful");
       digitalWrite(LEDpin, HIGH);
       
