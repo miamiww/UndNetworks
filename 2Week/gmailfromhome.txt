@@ -1,0 +1,18 @@
+ 1  192.168.0.1 (192.168.0.1)  1.308 ms  0.897 ms  0.901 ms
+ 2  * * *
+ 3  be61.nycynymy02h.nyc.rr.com (68.173.202.74)  16.531 ms  11.871 ms  15.912 ms
+ 4  agg113.nyquny9101r.nyc.rr.com (68.173.198.42)  11.486 ms  21.999 ms  19.987 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  14.645 ms
+    bu-ether25.nycmny837aw-bcr00.tbone.rr.com (107.14.19.22)  24.422 ms
+    bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  19.751 ms
+ 6  0.ae4.pr0.nyc20.tbone.rr.com (66.109.1.35)  19.051 ms
+    0.ae0.pr0.nyc20.tbone.rr.com (66.109.6.157)  29.339 ms
+    0.ae1.pr0.nyc20.tbone.rr.com (66.109.6.163)  14.779 ms
+ 7  ix-ae-6-0.tcore1.n75-new-york.as6453.net (66.110.96.53)  31.978 ms
+    ix-ae-10-0.tcore1.n75-new-york.as6453.net (66.110.96.13)  30.957 ms
+    ix-ae-6-0.tcore1.n75-new-york.as6453.net (66.110.96.53)  15.953 ms
+ 8  72.14.195.232 (72.14.195.232)  50.548 ms  15.869 ms  32.648 ms
+ 9  108.170.248.97 (108.170.248.97)  11.683 ms
+    108.170.248.33 (108.170.248.33)  16.616 ms  16.265 ms
+10  216.239.62.169 (216.239.62.169)  17.792 ms  11.770 ms  12.345 ms
+11  lga34s13-in-f5.1e100.net (172.217.10.37)  18.933 ms  42.267 ms  30.949 ms

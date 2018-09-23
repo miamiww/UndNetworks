@@ -1,0 +1,28 @@
+ 1  192.168.0.1 (192.168.0.1)  1.217 ms  1.045 ms  3.037 ms
+ 2  * * *
+ 3  be61.nycynymy02h.nyc.rr.com (68.173.202.74)  17.265 ms  18.138 ms  14.953 ms
+ 4  agg113.nyquny9101r.nyc.rr.com (68.173.198.42)  11.390 ms  47.768 ms  19.634 ms
+ 5  bu-ether25.nycmny837aw-bcr00.tbone.rr.com (107.14.19.22)  15.605 ms
+    bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  26.532 ms
+    bu-ether25.nycmny837aw-bcr00.tbone.rr.com (107.14.19.22)  22.387 ms
+ 6  0.ae0.pr0.nyc20.tbone.rr.com (66.109.6.157)  24.596 ms
+    0.ae4.pr0.nyc20.tbone.rr.com (66.109.1.35)  39.313 ms
+    0.ae2.pr0.nyc20.tbone.rr.com (107.14.19.147)  25.607 ms
+ 7  ix-ae-10-0.tcore1.n75-new-york.as6453.net (66.110.96.13)  23.690 ms  21.930 ms
+    ix-ae-6-0.tcore1.n75-new-york.as6453.net (66.110.96.53)  26.299 ms
+ 8  if-ae-9-2.tcore1.nto-new-york.as6453.net (63.243.128.121)  19.284 ms
+    if-ae-12-2.tcore2.nto-new-york.as6453.net (66.110.96.6)  18.812 ms
+    if-ae-9-2.tcore1.nto-new-york.as6453.net (63.243.128.121)  31.311 ms
+ 9  if-ae-7-2.tcore1.n0v-new-york.as6453.net (63.243.128.26)  29.935 ms
+    if-ae-11-14.tcore4.njy-newark.as6453.net (63.243.186.6)  30.184 ms
+    if-ae-11-14.tcore4.njy-newark.as6453.net (63.243.216.6)  20.059 ms
+10  if-ae-0-2.tcore3.njy-newark.as6453.net (216.6.90.14)  16.336 ms  14.484 ms
+    66.198.111.166 (66.198.111.166)  16.846 ms
+11  if-ae-1-3.tcore4.njy-newark.as6453.net (216.6.57.6)  15.773 ms
+    173.255.239.21 (173.255.239.21)  14.402 ms
+    173.255.239.19 (173.255.239.19)  21.636 ms
+12  66.198.111.166 (66.198.111.166)  65.753 ms  25.426 ms  25.600 ms
+13  173.255.239.25 (173.255.239.25)  16.835 ms
+    173.255.239.11 (173.255.239.11)  14.245 ms
+    173.255.239.23 (173.255.239.23)  19.489 ms
+14  cyclone.yadda.net (50.116.60.26)  17.355 ms  15.154 ms  16.948 ms

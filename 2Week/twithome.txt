@@ -1,0 +1,12 @@
+ 1  192.168.0.1 (192.168.0.1)  5.638 ms  0.887 ms  0.881 ms
+ 2  * * *
+ 3  be61.nycynymy01h.nyc.rr.com (68.173.202.72)  27.807 ms  13.267 ms  14.582 ms
+ 4  agg113.nyclnyrg01r.nyc.rr.com (68.173.198.40)  39.157 ms  17.721 ms  19.290 ms
+ 5  bu-ether29.nwrknjmd67w-bcr00.tbone.rr.com (107.14.19.24)  37.255 ms  22.960 ms
+    bu-ether19.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.78)  20.827 ms
+ 6  66.109.5.138 (66.109.5.138)  20.463 ms  17.167 ms
+    bu-ether12.nycmny837aw-bcr00.tbone.rr.com (66.109.6.27)  28.781 ms
+ 7  0.ae4.pr0.nyc20.tbone.rr.com (66.109.1.35)  14.340 ms  26.917 ms  19.967 ms
+ 8  r-199-59-151-90.twttr.com (199.59.151.90)  18.630 ms  15.155 ms  14.880 ms
+ 9  * * *
+10  104.244.42.1 (104.244.42.1)  43.585 ms  39.181 ms  35.576 ms
