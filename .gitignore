@@ -5,6 +5,7 @@ wifi_secrets.h
 *.mov
 *.gif
 *.jpg
+NodeExamples
 
 # Logs
 logs
