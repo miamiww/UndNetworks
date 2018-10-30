@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <script>
+      let places = ["zone","spot","place","space","domain","website"];
+      let attributes = ["cool ", "fun ", "nice ", "good ","best "]
+      document.title = "alden's " + attributes[Math.floor(Math.random() * attributes.length)] + places[Math.floor(Math.random() * places.length)]
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+    <script src="sketch.js" type="text/javascript"></script>
+    <link href="images/flower.png" rel="icon" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="style.css" >
+
+</head>
+
+<body>
+
+    <div class="center">
+        <p>
+            <a href="images/alden.jpg">alden jones</a> is an artist, researcher, and programmer living in new york city.
+            <br>
+            <br>
+            <br>
+<!--            <br>// <a href="http://alden.website/projects">projects<a/> -->
+            <br>// <a class="email-connect" href="">email</a>
+            <br>// <a href="http://github.com/miamiww">github</a>
+            <br>// <a href="http://twitter.com/miamiworldwide">twitter</a>
+            <!-- <br>// <a href="http://alden.website/portfolio">projects</a> -->
+            <br>// <a href="http://blog.alden.website">ITP blog</a>
+        </p>
+    </div>
+    <script>
+      var collections = document.getElementsByClassName("email-connect");
+      for (var i = 0, l = collections.length; i < l; ++i) { collections[i].setAttribute("href", ['com', String.fromCharCode(46), 'gmail', String.fromCharCode(64), 'jones', 'dale', 'riven', String.fromCharCode(58), 'mailto'].reverse().join('')); }
+    </script>
+</body>
+
+</html>
