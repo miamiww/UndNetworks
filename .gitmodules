@@ -1,0 +1,3 @@
+[submodule "RESTfulStuff"]
+	path = RESTfulStuff
+	url = https://github.com/miamiww/RESTfulStuff.git
